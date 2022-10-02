@@ -1,0 +1,77 @@
+body{
+ background-color: papayawhip;
+ color: rgb(112, 103, 103);
+ font-size: 15px;
+ font-family:'acme' sans-serif;
+ font-family: cursive;
+}
+#header-nav{
+ background-color:  #AAA5A5;;
+ border-radius: 5px;
+ border: solid black 3px;
+ 
+}
+.navbar-brand{
+ padding-top: 15px;
+ padding-left: 0;
+ 
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+ text-decoration: none;
+}
+.navbar-brand h1 {
+ font-family:  'acme', serif;
+ font-size: 1.5em;
+ color:black;
+ font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+ margin-top: 0;
+ margin-bottom: 0px;
+}
+#nav-list a {
+ color: black;
+ background-color:white;
+ text-align: center;
+ border-bottom: solid black 2px;
+ font-family:'acme';
+ font-size: 1.5em;
+}
+#nav-list a:hover {
+ background-color: #AEAE52;   
+}
+.navbar-default .navbar-collapse {
+	margin-top:0px;
+	border: 0px;
+	list-style-type: none;
+}  
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+ border: 2px solid white;
+}
+.navbar-header button.navbar-toggle {
+ clear: both;
+ margin-top: -30px;
+}
+.text-center{
+ color: black;
+ font-family: cursive;
+}
+#menu-content{
+ background-color: #AAA5A5;
+ margin-left: 20px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ border-radius: 5px;
+ color: black;
+ position: relative;
+}
+
+
+
+
+
+
